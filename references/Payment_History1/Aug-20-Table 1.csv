@@ -1,0 +1,104 @@
+Date,Particulars,Payment Mode,Category,Debit/Credit,Cr.Amt,Dr.Amt,Balance,Building & Flat,Name of Flat Owner,Account Head ,Remarks
+1-Aug-20,Cash Deposit by Ajeesh,Cash,CCTV,Credit,10000,0," 	10,000 ",NA,,CCTV Collection-Ajeesh,-NA-
+2-Aug-20,Cash Deposit by Ajeesh,Cash,CCTV,Credit,10500,0," 	20,500 ",NA,,"CCTV Collection-Ajeesh, Bldg-2/104/106/101",-NA-
+2-Aug-20,Misc Receipt,,Interest Received,Credit,5,0," 	20,505 ",NA,,Misc Receipt,-NA-
+3-Aug-20,IMPS - Maintenanace Roohan Moolya,IMPS,Society Maintenance,Credit,4652,0," 	25,157 ",B-2/606,,"Maintenance For July-20, Bldg-2/606, Roohan Moolya",-NA-
+4-Aug-20,IMPS - CCTV by Nitesh,IMPS,CCTV,Credit,14000,0," 	39,157 ",NA,,"CCTV Collection-Nitesh, Bldg-1/103/201/301/303",-NA-
+5-Aug-20,IMPS - Maintenanace Pawan Ghotkar,IMPS,Society Maintenance,Credit,3528,0," 	42,685 ",B-1/703,,"Maintenance For July-20, Bldg-1/703, Pawan Ghotkar",-NA-
+5-Aug-20,IMPS - Maintenanace Arvind Singh,IMPS,Society Maintenance,Credit,3538,0," 	46,223 ",B-2/704,,"Maintenance For July-20, Bldg-2/704, Arvind Singh",-NA-
+8-Aug-20,IMPS - Maintenanace Anup Sarvade,IMPS,Society Maintenance,Credit,3408,0," 	49,631 ",B-3/101,,"Maintenance For July-20, Bldg-3/101, Anup Sarvade",-NA-
+8-Aug-20,IMPS - Maintenanace Shrikant,IMPS,Society Maintenance,Credit,4604,0," 	54,235 ",B-2/301,,"Maintenance For July-20, Bldg-2/301, Shrikant",-NA-
+8-Aug-20,IMPS - Maintenanace Swapnil,IMPS,Society Maintenance,Credit,3528,0," 	57,763 ",B-1/303,,"Maintenance For July-20, Bldg-1/303, Swapnil",-NA-
+8-Aug-20,IMPS - Maintenanace Sanjit Jeena,IMPS,Society Maintenance,Credit,4604,0," 	62,367 ",B-1/202,,"Maintenance For July-20, Bldg-1/202, Sanjit Jeena",-NA-
+8-Aug-20,IMPS - Maintenanace Atul Kumar,IMPS,Society Maintenance,Credit,4604,0," 	66,971 ",B-1/201,,"Maintenance For July-20, Bldg-1/201, Atul Kumar",-NA-
+8-Aug-20,Misc Receipt,,Misc Receipt,Credit,5,0," 	66,976 ",NA,,Misc Receipt,-NA-
+9-Aug-20,IMPS - Maintenanace Sunil Nirmale,IMPS,Society Maintenance,Credit,3399,0," 	70,375 ",B-1/204,,"Maintenance For July-20, Bldg-1/204, Sunil Nirmale",-NA-
+9-Aug-20,IMPS - Maintenanace Pratik Pandey,IMPS,Society Maintenance,Credit,3183,0," 	73,558 ",B-3/303,,"Maintenance For July-20, Bldg-3/303, Pratik Pandey",-NA-
+9-Aug-20,Misc Receipt,,Misc Receipt,Credit,1,0," 	73,559 ",NA,,Misc Receipt,-NA-
+9-Aug-20,IMPS - Maintenanace Mukesh Pawar,IMPS,Society Maintenance,Credit,3418,0," 	76,977 ",B-1/304,,"Maintenance For July-20, Bldg-1/304, Mukesh Pawar",-NA-
+9-Aug-20,IMPS - Maintenanace Hariprasad Sharma,,Misc Receipt,Credit,10,0," 	76,987 ",B-1/302,,"Maintenance For July-20, Bldg-1/302, Hariprasad Sharma",-NA-
+9-Aug-20,IMPS - Maintenanace Shaktivel,IMPS,Society Maintenance,Credit,11508,0," 	88,495 ",B-2/402,,"Maintenance For July-20, Bldg-2/402, Shaktivel Mudaliar",-NA-
+9-Aug-20,Misc Receipt,,Misc Receipt,Credit,1,0," 	88,496 ",NA,,Misc Receipt,-NA-
+9-Aug-20,IMPS - Maintenanace CASH Deepak,IMPS,Society Maintenance,Credit,3524,0," 	92,020 ",B-2/203,,"Maintenance For July-20, Bldg-2/203, Deepak Patil",-NA-
+9-Aug-20,CCTV - CASH Vikas Kandoi,Cash,CCTV,Credit,7000,0," 	99,020 ",B-1/204,,CCTV Collection- Bldg-2/204/205,-NA-
+10-Aug-20,IMPS - Maintenanace Swapnil Gandhe,IMPS,Society Maintenance,Credit,3533,0," 	102,553 ",B-1/403,,"Maintenance For July-20, Bldg-1/403, Swapnil Gandhe",-NA-
+10-Aug-20,IMPS - Maintenanace Satishkumar,IMPS,Society Maintenance,Credit,4604,0," 	107,157 ",B-2/302,,"Maintenance For July-20, Bldg-2/302, Satishkumar Yadav",-NA-
+10-Aug-20,IMPS - Maintenanace Lalit Phirke,IMPS,Society Maintenance,Credit,3528,0," 	110,685 ",B-1/103,,"Maintenance For July-20, Bldg-1/103. Lalit Phirke",-NA-
+10-Aug-20,Misc Receipt,,Misc Receipt,Credit,1,0," 	110,686 ",NA,,Misc Receipt,-NA-
+10-Aug-20,Misc Receipt,,Misc Receipt,Credit,10,0," 	110,696 ",NA,,Misc Receipt,-NA-
+10-Aug-20,IMPS - Maintenanace Hariprasad Sharma,IMPS,Society Maintenance,Credit,4584,0," 	115,280 ",B-1/302,,"Maintenance For July-20, Bldg-1/302, Hariprasad Sharma",-NA-
+10-Aug-20,IMPS - Maintenanace Mukesh Dixit,IMPS,Society Maintenance,Credit,3406,0," 	118,686 ",B-2/505,,"Maintenance For July-20, Bldg-2/505, Mukesh Dixit",-NA-
+11-Aug-20,IMPS - Maintenanace Komal Shirke,IMPS,Society Maintenance,Credit,3220,0," 	121,906 ",B-2/505,,"Maintenance For July-20, Bldg-3/403, Komal Shirke",-NA-
+11-Aug-20,IMPS - Maintenanace Shakti Singh,IMPS,Society Maintenance,Credit,4604,0," 	126,510 ",B-2/501,,"Maintenance For July-20, Bldg-2/501, Shakti Singh Rathor",-NA-
+11-Aug-20,IMPS - Maintenanace Sunny Chhangani,IMPS,Society Maintenance,Credit,5636,0," 	132,146 ",B-1/502,,"Maintenance For July-20, Bldg-1/502, Sunny Chhangani",-NA-
+11-Aug-20,IMPS - Maintenanace Ajeesh Kumar,IMPS,Society Maintenance,Credit,4652,0," 	136,798 ",B-2/306,,"Maintenance For July-20, Bldg-2/306, Ajeesh Kumar",-NA-
+11-Aug-20,IMPS - Maintenanace Punnet Sharma,IMPS,Society Maintenance,Credit,4652,0," 	141,450 ",B-2/101,,"Maintenance For July-20, Bldg-2/101, Punnet Sharma",-NA-
+11-Aug-20,Misc Receipt,,Misc Receipt,Credit,1,0," 	141,451 ",NA,,Misc Receipt,-NA-
+11-Aug-20,IMPS - Maintenanace Umesh Chaudhary,IMPS,Society Maintenance,Credit,3404,0," 	144,855 ",B-3/402,,"Maintenance For July-20, Bldg-3/402, Umesh Chaudhari",-NA-
+11-Aug-20,IMPS - Maintenanace Dharmendra Pandey,IMPS,Society Maintenance,Credit,4600,0," 	149,455 ",B-1/102,,"Maintenance For July-20, Bldg-1/102, Dharmendra Pandey",-NA-
+11-Aug-20,IMPS - Maintenanace Parth Bhartia,IMPS,Society Maintenance,Credit,4604,0," 	154,059 ",B-1/101,,"Maintenance For July-20, Bldg-1/101, Parth Bhartia",-NA-
+11-Aug-20,IMPS - Maintenanace Manoj B,IMPS,Society Maintenance,Credit,3394,0," 	157,453 ",B-3/201,,"Maintenance For July-20, Bldg-3/201, Manoj Borade",-NA-
+11-Aug-20,IMPS - Maintenanace Vishal Bikkad,IMPS,Society Maintenance,Credit,3524,0," 	160,977 ",B-2/403,,"Maintenance For July-20, Bldg-2/403, Vishal Bikkad",-NA-
+11-Aug-20,IMPS - Maintenanace Akash Tekchandani,IMPS,Society Maintenance,Credit,3538,0," 	164,515 ",B-2/104,,"Maintenance For July-20, Bldg-2/104, Akash Tekchandani",-NA-
+12-Aug-20,IMPS - Maintenanace Narayan Pujari,IMPS,Society Maintenance,Credit,11508,0," 	176,023 ",B-1/301,,"Maintenance For July-20, Bldg-1/301, Narayan Poojari",-NA-
+12-Aug-20,IMPS - Maintenanace Manoharlal Saini,IMPS,Society Maintenance,Credit,4604,0," 	180,627 ",B-1/601,,"Maintenance For July-20, Bldg-1/601, Manoharlal Saini",-NA-
+12-Aug-20,IMPS - Maintenanace Swapnil,IMPS,Society Maintenance,Credit,4450,0," 	185,077 ",B-3/502,,"Maintenance For July-20, Bldg-3/502, Swapnil Aherrao",-NA-
+12-Aug-20,IMPS - Maintenanace Pawan Tiwari,IMPS,Society Maintenance,Credit,3394,0," 	188,471 ",B-3/204,,"Maintenance For July-20, Bldg-3/204, Pawan Tiwari",-NA-
+12-Aug-20,IMPS - Maintenanace Saket ,IMPS,Society Maintenance,Credit,4652,0," 	193,123 ",B-2/506,,"Maintenance For July-20, Bldg-2/506, Saket Singh",-NA-
+12-Aug-20,IMPS - Maintenanace Rakesh Bagade,IMPS,Society Maintenance,Credit,3408,0," 	196,531 ",B-3/301,,"Maintenance For July-20, Bldg-3/301, Rakesh Bagade",-NA-
+12-Aug-20,IMPS - Maintenanace Surajdevi Chaudhary,IMPS,Society Maintenance,Credit,3533,0," 	200,064 ",B-1/603,,"Maintenance For July-20, Bldg-1/603, Surajdevi Chaudhary",-NA-
+15-Aug-20,IMPS - Maintenanace Hitendra Wasaniya,IMPS,Society Maintenance,Credit,3404,0," 	203,468 ",B-3/202,,"Maintenance For July-20, Bldg-3/202, Hitendra Wasaniya",-NA-
+15-Aug-20,IMPS - Maintenanace Houshiram Shete,IMPS,Society Maintenance,Credit,3221,0," 	206,689 ",B-3/203,,"Maintenance For July-20, Bldg-3/203, Houshiram Shete",-NA-
+15-Aug-20,IMPS - Maintenanace R. Rajan,IMPS,Society Maintenance,Credit,4604,0," 	211,293 ",B-1/402,,"Maintenance For July-20, Bldg-1/402, R. Rajan",-NA-
+16-Aug-20,IMPS - Maintenanace Suryakant,IMPS,Society Maintenance,Credit,3408,0," 	214,701 ",B-3/701,,"Maintenance For July-20, Bldg-3/701, Suryakant",-NA-
+17-Aug-20,Cash Deposit by Ajeesh,Cash,CCTV,Credit,17500,0," 	232,201 ",NA,,"CCTV Collection-Nitesh, Bldg-1/304/402/403/404/504",-NA-
+17-Aug-20,"Exps-Diesel and Bleaching Powder,Labour",,,Debit,0,7250," 	224,951 ",NA,,Diesel and Bleaching Powder on 15.08.2020,-NA-
+18-Aug-20,IMPS - Maintenanace Rajesh Mishra,IMPS,Society Maintenance,Credit,4604,0," 	229,555 ",B-1/701,,"Maintenance For July-20, Bldg-1/701, Rajesh Mishra",-NA-
+20-Aug-20,IMPS - Maintenanace Arun Kumar,IMPS,Society Maintenance,Credit,3408,0," 	232,963 ",B-3/704,,"Maintenance For July-20, Bldg-3/704, Arun Dwivedi",-NA-
+20-Aug-20,CASH - Maintenanace Jitendra Ghude,Cash,Society Maintenance,Credit,3550,0," 	236,513 ",B-2/303,,"Maintenance For July-20, Bldg-2/303, Jitendra Ghude",-NA-
+20-Aug-20,IMPS - Maintenanace Paresh Nagda,IMPS,Society Maintenance,Credit,3533,0," 	240,046 ",B-1/203,,"Maintenance For July-20, Bldg-1/203, Paresh Nagda",-NA-
+20-Aug-20,IMPS - Maintenanace Sumit Khinchi,IMPS,Society Maintenance,Credit,4604,0," 	244,650 ",B-2/101,,"Maintenance For July-20, Bldg-2/101, Sumit Khinchi",-NA-
+21-Aug-20,IMPS - Maintenanace CH Deposit Dharmant Singh,IMPS,Society Maintenance,Credit,9208,0," 	253,858 ",B-2/602,,"Maintenance For July-20, Bldg-2/602, Dharmant Singh",-NA-
+21-Aug-20,IMPS - Maintenanace CH Deposit Roshini Uphadyay,IMPS,Society Maintenance,Credit,8844,0," 	262,702 ",B-2/304,,"Maintenance For July-20, Bldg-2/304, Roshini Uphadyay",-NA-
+21-Aug-20,IMPS - Maintenanace CH Deposit Ritesh Dixit,IMPS,Society Maintenance,Credit,3538,0," 	266,240 ",B-2/504,,"Maintenance For July-20, Bldg-2/504, Ritesh Dixit",-NA-
+21-Aug-20,IMPS - Maintenanace CH Deposit Ramasare Gupta,IMPS,Society Maintenance,Credit,3408,0," 	269,648 ",B-2/305,,"Maintenance For July-20, Bldg-2/305, Ramasare Gupta",-NA-
+21-Aug-20,IMPS - Maintenanace CH Deposit Sadanlal Jaiswal,IMPS,Society Maintenance,Credit,3221,0," 	272,869 ",B-3/603,,"Maintenance For July-20, Bldg-3/603, Sadanlal Jaiswal",-NA-
+21-Aug-20,CASH - CCTV Deposit Ajeesh,Cash,CCTV,Credit,4000,0," 	276,869 ",NA,,CCTV Collection- Bldg-2 by Ajeesh,-NA-
+21-Aug-20,IMPS - Maintenanace Yogiraj Sapkale,IMPS,Society Maintenance,Credit,3548,0," 	280,417 ",B-2/103,,"Maintenance For July-20, Bldg-2/103, Yogiraj Sapkale",-NA-
+21-Aug-20,IMPS - CCTV Yogiraj Sapkale,IMPS,CCTV,Credit,3000,0," 	283,417 ",B-2/103,,"CCTV Collection, Bldg-2/103, Yogiraj Sapkale",-NA-
+22-Aug-20,IMPS - Maintenanace Vikaskumar,IMPS,Society Maintenance,Credit,4652,0," 	288,069 ",B-2/706,,"Maintenance For July-20, Bldg-2/706, Vikaskumar Singh",-NA-
+22-Aug-20,IMPS - Maintenanace Shailesh,IMPS,Society Maintenance,Credit,3418,0," 	291,487 ",B-1/104,,"Maintenance For July-20, Bldg-1/104, Shailesh Tiwari",-NA-
+23-Aug-20,IMPS - Maintenanace Kaushal Jha,IMPS,Society Maintenance,Credit,4594,0," 	296,081 ",B-2/201,,"Maintenance For July-20, Bldg-2/201, Kaushal Jha",-NA-
+23-Aug-20,IMPS - Maintenanace Sagar Ghule,IMPS,Society Maintenance,Credit,8496,0," 	304,577 ",B-1/604,,"Maintenance For July-20, Bldg-1/604, Sagar Ghule",upto this ok
+24-Aug-20,IMPS - CCTV Yogiraj Sapkale,IMPS,CCTV,Credit,500,0," 	305,077 ",NA,,"CCTV Collection, Bldg-2/103, Yogiraj Sapkale",-NA-
+25-Aug-20,IMPS - Maintenanace Tushar,IMPS,Society Maintenance,Credit,3408,0," 	308,485 ",B-3/302,,"Maintenance For July-20, Bldg-3/302, Tushar Bhansode",-NA-
+25-Aug-20,IMPS - Maintenanace Pandurang,IMPS,Society Maintenance,Credit,3399,0," 	311,884 ",B-3/601,,"Maintenance For July-20, Bldg-3/601, Pandurang Nandanwar",-NA-
+25-Aug-20,IMPS - Maintenanace Santosh Mishra,IMPS,Society Maintenance,Credit,3524,0," 	315,408 ",B-2/604,,"Maintenance For July-20, Bldg-2/604, Santosh Mishra",-NA-
+26-Aug-20,IMPS - Maintenanace Dilip Morani,IMPS,Society Maintenance,Credit,4604,0," 	320,012 ",B-1/602,,"Maintenance For July-20, Bldg-1/602, Dilip Morani",-NA-
+26-Aug-20,IMPS - Maintenanace Kiran ,IMPS,Society Maintenance,Credit,3408,0," 	323,420 ",B-3/702,,"Maintenance For July-20, Bldg-3/702, Kiran Wakchaure",-NA-
+26-Aug-20,IMPS - CCTV Bldg-3 Swapnil,IMPS,CCTV,Credit,84000,0," 	407,420 ",NA,,"CCTV Collection, Bldg-3, Swapnil Collection",-NA-
+27-Aug-20,IMPS - Maintenanace Santosh Mishra,IMPS,Society Maintenance,Credit,3408,0," 	410,828 ",B-2/605,,"Maintenance For July-20, Bldg-2/605, Santosh Mishra",-NA-
+27-Aug-20,IMPS - Maintenanace CH Deposit Dhirendrapratap Singh,IMPS,Society Maintenance,Credit,3418,0," 	414,246 ",B-1/504,,"Maintenance For July-20, Bldg-1/504, Dhirendra Pratap Singh",-NA-
+28-Aug-20,IMPS - Maintenanace Cash BZ Khaire,IMPS,Society Maintenance,Credit,8631,0," 	422,877 ",B-2/702,,"Maintenance For July-20, Bldg-2/702, BZ Khaire",-NA-
+28-Aug-20,IMPS - Maintenanace Nitesh,IMPS,Society Maintenance,Credit,3399,0," 	426,276 ",B-1/404,,"Maintenance For July-20, Bldg-1/404, Nitesh",-NA-
+28-Aug-20,CASH - Maintenanace Jaychand,Cash,Society Maintenance,Credit,3408,0," 	429,684 ",B-2/705,,"Maintenance For July-20, Bldg-2/705, Jaychand Upadhyay",-NA-
+28-Aug-20,IMPS - Maintenanace Yogesh Yadav,IMPS,Society Maintenance,Credit,3538,0," 	433,222 ",B-2/404,,"Maintenance For July-20, Bldg-2/404, Yogesh Yadav",-NA-
+28-Aug-20,IMPS - CCTV Bldg-1 Sanjit Jeena,IMPS,CCTV,Credit,28000,0," 	461,222 ",NA,,"CCTV Collection, Bldg-1, Sanjit Jeena Collection",-NA-
+28-Aug-20,IMPS - CCTV Bldg-3 Umesh,IMPS,CCTV,Credit,10500,0," 	471,722 ",NA,,"CCTV Collection, Bldg-3, Umesh Collection",-NA-
+28-Aug-20,IMPS - CCTV Bldg-1 Pawan,IMPS,CCTV,Credit,10500,0," 	482,222 ",NA,,"CCTV Collection, Bldg-1, Pawan Ghotkar",-NA-
+28-Aug-20,IMPS - Maintenanace Tushar Mahajan,IMPS,Society Maintenance,Credit,4604,0," 	486,826 ",B-2/701,,"Maintenance For July-20, Bldg-2/701, Tushar Mahajan",-NA-
+29-Aug-20,IMPS - Maintenanace Sharad Lokhande,IMPS,Society Maintenance,Credit,4604,0," 	491,430 ",B-1/501,,"Maintenance For July-20, Bldg-1/501, Sharad Lokhande",-NA-
+29-Aug-20,Misc Receipt,,Misc Receipt,Credit,1,0," 	491,431 ",NA,,Misc Receipt,-NA-
+29-Aug-20,IMPS - Maintenanace Sandeep Singh,IMPS,Society Maintenance,Credit,3408,0," 	494,839 ",B-3/304,,"Maintenance For July-20, Bldg-3/304, Sandeep Singh",-NA-
+30-Aug-20,IMPS - Maintenanace Kishan Chanda,IMPS,Society Maintenance,Credit,3183,0," 	498,022 ",B-3/503,,"Maintenance For July-20, Bldg-3/503, Kishan Chanda",-NA-
+31-Aug-20,IMPS - Maintenanace Vikas Kandoi,IMPS,Society Maintenance,Credit,6931,0," 	504,953 ",B-2/204,,"Maintenance For July-20, Bldg-2/204,205, Vikas Kandoi ",-NA-
+31-Aug-20,IMPS - Maintenanace Devesh Singh,IMPS,Society Maintenance,Credit,3408,0," 	508,361 ",B-3/404,,"Maintenance For July-20, Bldg-3/404, Devesh Singh",-NA-
+31-Aug-20,IMPS - Maintenanace Devesh Singh,IMPS,Society Maintenance,Credit,3408,0," 	511,769 ",B-3/504,,"Maintenance For July-20, Bldg-3/504, Devesh Singh",-NA-
+31-Aug-20,IMPS - Maintenanace Samadhan,IMPS,Society Maintenance,Credit,4603,0," 	516,372 ",B-2/102,,"Maintenance For July-20, Bldg-2/102, Samadhan",-NA-
+31-Aug-20,CASH - Maintenanace Kalpana Wagh,Cash,Society Maintenance,Credit,3408,0," 	519,780 ",B-3/104,,"Maintenance For July-20, Bldg-3/104, Kalpana Wagh",cash with anup
+31-Aug-20,IMPS - Maintenanace Ramesh Indulkar,IMPS,Society Maintenance,Credit,4604,0," 	524,384 ",B-2/401,,"Maintenance For July-20, Bldg-2/401, Ramesh Indulkar",-NA-
+31-Aug-20,CHEQ  - Maintenance Prakash Chand ,Cheque,Society Maintenance,Credit,9188,0," 	533,572 ",B-2/601,,"Maintenance For July-20, Bldg-2/601, Prakash Chand",cheq not realised
+31-Aug-20,CHEQ  - Maintenance Sunita/Lokendra Singh,Cheque,Society Maintenance,Credit,4652,0," 	538,224 ",B-2/206,,"Maintenance For July-20, Bldg-2/206, Sunita/Lokendra Singh",cheq not realised
+31-Aug-20,CHEQ  - Maintenance Mohnish Gade,Cheque,Society Maintenance,Credit,4604,0," 	542,828 ",B-2/202,,"Maintenance For July-20, Bldg-2/202, Mohnish Gade",cheq not realised
+31-Aug-20,CHEQ  - Maintenance Krishna Pardikar,Cheque,Society Maintenance,Credit,17250,0," 	560,078 ",B-1/404,,"Maintenance For July-20, Bldg-1/401, Krishna Pardikar",cheq not realised
+31-Aug-20,IMPS - Maintenanace Pratik Pandey,IMPS,Society Maintenance,Credit,3183,0," 	563,261 ",B-3/303,,"Maintenance For Aug-20, Bldg-3/303, Pratik Pandey",-NA-
